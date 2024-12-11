@@ -49,7 +49,7 @@ Además de todos los links organizados y estructurados en níveles en el sitio d
 
 - Frameworks ↓
 
-  - MDA (Mecânicas, Dinâmicas, Estética): <https://users.cs.northwestern.edu/~hunicke/MDA.pdf>
+  - MDA (Mecánicas, Dinámicas, Estética): <https://users.cs.northwestern.edu/~hunicke/MDA.pdf>
   - The Colors of Game Design: <https://medium.com/@lipedal/colors-of-game-design-9413d81e93a>
   - 4 Keys 2 Fun: <http://www.xeodesign.com/research/>
   - Gamer Motivational Model: <https://quanticfoundry.com/#motivation-model>
