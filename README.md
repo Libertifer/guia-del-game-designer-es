@@ -1,44 +1,44 @@
 
 ![Site Gif](https://github.com/baptixta/game-design-refs/blob/main/images/ggd.gif "Site Gif")
-<a href="https://baptixta.github.io/guia-do-game-designer/" target="_blank">Acesse o Guia do Game Designer aqui</a>
+<a href="https://baptixta.github.io/guia-do-game-designer/" target="_blank">Acceda aquí a la Guía del Game Designer</a>
 <br><br>
 ## 🎯Objetivo
 
-A ideia desse repositório, é compartilhar conteúdo para ajudar Game Designers a se desenvolverem (de iniciantes até avançados). Se tiver algo legal para compartilhar, é só mandar um pull request :)
+La idea de este repositorio, es compartir contenido para ayudar a los Game Designers a desenvolverse (de principiantes a avanzados). Se tiene algo bueno para compartir, solo envía una pull request :)
 <br><br>
-Além de todos os links organizados e estruturados em níveis no site do [**Guia do Game Designer**](https://baptixta.github.io/guia-do-game-designer/), dentro desse readme tem diversos outros links categorizados e um pouco mais bagunçados pra você estudar se quiser.
+Además de todos los links organizados y estructurados en níveles en el sitio de la [**Guía del Game Designer**](https://baptixta.github.io/guia-do-game-designer/), dentro de este readme tienen distintos links categorizados y un poco más desordenados para estudiar si quieres.
 <br><br>
 
-## 💻 O trabalho de um Game Designer:
+## 💻 El trabajo de un Game Designer:
 
-- Templates GDD ↓
+- Plantillas GDD ↓
 
-  - GDD Template (by: Rosa Carbo-Mascarell): <https://glamorous-save-06a.notion.site/Game-design-template-0132383574dd4c2dbff5d14e3a90761c>
-  - GDD Template (by: Unity): <https://connect-prd-cdn.unity.com/20201215/83f3733d-3146-42de-8a69-f461d6662eb1/Game-Design-Document-Template.pdf>
-  - GDD Template (BY: Milanote): <https://milanote.com/templates/game-design/game-design-document>
-  - High Level GDD Template (by: Double Coconut): <https://docs.google.com/document/d/1h4p_3wMyBtUjyW7p6VdXFcv1vWBNFcT6cLr1DzaD7V0/edit>
+  - Plantilla GDD (by: Rosa Carbo-Mascarell): <https://glamorous-save-06a.notion.site/Game-design-template-0132383574dd4c2dbff5d14e3a90761c>
+  - Plantilla GDD (by: Unity): <https://connect-prd-cdn.unity.com/20201215/83f3733d-3146-42de-8a69-f461d6662eb1/Game-Design-Document-Template.pdf>
+  - Plantilla GDD (BY: Milanote): <https://milanote.com/templates/game-design/game-design-document>
+  - Plantilla GDD de alto nivel (by: Double Coconut): <https://docs.google.com/document/d/1h4p_3wMyBtUjyW7p6VdXFcv1vWBNFcT6cLr1DzaD7V0/edit>
 
-- Links de exemplos/tipos de GDD ↓
+- Links de ejemplos/tipos de GDD ↓
 
-  - Como escrever um GDD: <https://www.gamedeveloper.com/business/how-to-write-a-game-design-document>
-  - Produção de Jogos: <https://producaodejogos.com/gdd/>
-  - Game Documents: <https://gamedocs.org/documents/>
+  - Cómo escribir un GDD: <https://www.gamedeveloper.com/business/how-to-write-a-game-design-document>
+  - Producción de Juegos: <https://producaodejogos.com/gdd/>
+  - Documentos de juegos: <https://gamedocs.org/documents/>
 
-- Como fazer balanceamento do seu jogo ↓
-  - Template de balanceamento: <https://www.entrogames.com/2022/01/how-to-balance-a-game-a-deep-dive-into-a-real-world-template/>
-  - Game Design 101 - Balanceando sua economia: <https://medium.com/strike-the-pixels/game-design-101-balancing-economy-5f3e5a7eecc5>
+- Como balancear tu juego ↓
+  - Plantilla de balance: <https://www.entrogames.com/2022/01/how-to-balance-a-game-a-deep-dive-into-a-real-world-template/>
+  - Game Design 101 - Balanceando tu economía: <https://medium.com/strike-the-pixels/game-design-101-balancing-economy-5f3e5a7eecc5>
   - Curvas (por Stanislav Stankovic): <https://stanislav-stankovic.medium.com/the-power-of-curves-652b2988cad1>
   - Machinations - <https://machinations.io/>
  
 <br><br>
   
-# 📄 [Artigos](https://github.com/baptixta/game-design-refs/blob/main/ARTIGOS.md)
+# 📄 [Artículos](https://github.com/baptixta/game-design-refs/blob/main/ARTIGOS.md)
 
 <br><br>
 
-### 🧠 Como aprender Game Design:
+### 🧠 Cómo aprender Game Design:
 
-- Links de livros bons ↓
+- Links de libros buenos ↓
 
   - Theory of Fun for Game Design: <https://www.amazon.com.br/Theory-Fun-Game-Design-English-ebook/dp/B00GK5SRFY/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2H91J3U83DSM9&keywords=theory+of+fun&qid=1651344903&s=digital-text&sprefix=theory+of+fun%2Cdigital-text%2C180&sr=1-1>
   - The Art of Game Design: A Book of Lenses: <https://www.amazon.com.br/Art-Game-Design-Lenses-English-ebook/dp/B07X59RN6N/ref=sr_1_3?crid=14LA6VO15233D&keywords=art+of+game+design&qid=1651344823&s=digital-text&sprefix=art+of+game+design%2Cdigital-text%2C183&sr=1-3>
@@ -50,12 +50,12 @@ Além de todos os links organizados e estruturados em níveis no site do [**Guia
 - Frameworks ↓
 
   - MDA (Mecânicas, Dinâmicas, Estética): <https://users.cs.northwestern.edu/~hunicke/MDA.pdf>
-  - The Colors of Game Design: https://medium.com/@lipedal/colors-of-game-design-9413d81e93a
-  - 4 Keys 2 Fun: http://www.xeodesign.com/research/
-  - Gamer Motivational Model: https://quanticfoundry.com/#motivation-model
+  - The Colors of Game Design: <https://medium.com/@lipedal/colors-of-game-design-9413d81e93a>
+  - 4 Keys 2 Fun: <http://www.xeodesign.com/research/>
+  - Gamer Motivational Model: <https://quanticfoundry.com/#motivation-model>
 
 
-- Links de sites bons ↓
+- Links de sitios buenos ↓
 
   - Game Design Skills: <https://gamedesignskills.com>
   - Game Developer: <https://www.gamedeveloper.com/>
@@ -68,7 +68,7 @@ Além de todos os links organizados e estruturados em níveis no site do [**Guia
   - The Game Design Resource Guide: <https://alexiamandeville.medium.com/the-game-design-resource-guide-e19bb237877>
   - We Can Fix It In UI: <https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1>
 
-- Link de canais bons ↓
+- Link de canales buenos ↓
 
   - Game Maker's Toolkit: <https://www.youtube.com/c/MarkBrownGMT/>
   - Extra Credits: <https://www.youtube.com/extracredits/>
@@ -77,7 +77,7 @@ Além de todos os links organizados e estruturados em níveis no site do [**Guia
   - The Gamer Inside Brasil: <https://www.youtube.com/user/TheGamerInsideBrasil>
   - Escola Rivers: <https://www.youtube.com/c/EscolaRivers>
 
-- Link de canais bons de Unity ↓
+- Link de canales buenos de Unity ↓
 
   - Unity: <https://www.youtube.com/c/unity/>
   - Brackeys: <https://www.youtube.com/c/Brackeys>
@@ -93,7 +93,7 @@ Além de todos os links organizados e estruturados em níveis no site do [**Guia
   - Gabriel Aguiar Prod.: <https://www.youtube.com/c/GabrielAguiarProd>
   - Jettelly | VFX & Shaders: <https://www.youtube.com/c/Jettelly>
 
-- Link de canais bons de Unreal ↓
+- Link de canales buenos de Unreal ↓
 
   - Unreal: <https://www.youtube.com/c/UnrealEngine>
   - Fat Dino: <https://www.youtube.com/c/FatDino>
@@ -106,14 +106,14 @@ Além de todos os links organizados e estruturados em níveis no site do [**Guia
   - Mike Stevanovic: <https://www.youtube.com/c/MikeStevanovic/>
   - Dev Enabled: <https://www.youtube.com/c/DevEnabled>
 
-- Link de canais bons de Godot ↓
+- Link de canales buenos de Godot ↓
 
   - Godot: <https://www.youtube.com/c/GodotEngineOfficial>
   - GDQuest: <https://www.youtube.com/c/Gdquest>
   - HeartBeast: <https://www.youtube.com/c/uheartbeast>
   - Clécio Espindola GameDev: <https://www.youtube.com/c/ClécioEspíndola>
 
-- Link de podcasts bons ↓
+- Link de podcasts buenos ↓
   - Podquest: <http://www.podquest.com.br>
   - Game Design de Bolso: <https://open.spotify.com/show/6PvyZNI5qIL5EyhSXuX3Zw>
   - Regras do jogo: <https://open.spotify.com/show/3WReGMZA3GcqC7iGeuKewE?si=8bafa69095524e14>
@@ -133,9 +133,9 @@ Além de todos os links organizados e estruturados em níveis no site do [**Guia
 
 <br><br>
 
-## ❓ Inspiração (Portfolio / Currículo)
+## ❓ Inspiración (Portfolio / Currículum)
 
-- Link do meu currículo ↓  
+- Link de mi currículum ↓  
   Currículo: <https://www.baptixta.com/resume>
 
 - Link de porfolios de game designers ↓
@@ -151,9 +151,9 @@ Além de todos os links organizados e estruturados em níveis no site do [**Guia
 
 - Link de pitches ↓
   - Jack Concordia: https://www.notion.so/Pitch-Decks-f56e38c13fe6417f8379859e74367e1a
-  - Template de Pitch (Rami Ismail): https://ltpf.ramiismail.com/pitch-template/
+  - Plantilla de Pitch (Rami Ismail): https://ltpf.ramiismail.com/pitch-template/
 
-- Link do meu linkedin ↓
+- Link de mi linkedin ↓
   - Davi Baptista: <https://www.linkedin.com/in/davi-baptista/>
 
 <br><br>
@@ -166,4 +166,5 @@ Além de todos os links organizados e estruturados em níveis no site do [**Guia
 
 ---
 
-Feito com ♥ by Baptixta
+Hecho con ♥ por Baptixta
+Traducido al español por Libertifer
