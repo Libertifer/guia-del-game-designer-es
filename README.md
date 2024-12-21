@@ -128,7 +128,7 @@ Además de todos los links organizados y estructurados en níveles en el sitio d
  
 <br><br>
 
-## 📊 Game Design Skill Chart
+## 📊 Gráfico de habilidades de Game Designer
 <img src="https://github.com/baptixta/game-design-refs/blob/main/images/Design_Skill_Chart.png" alt="Game Design Skill Chart"/>
 
 <br><br>
